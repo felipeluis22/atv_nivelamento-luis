@@ -5,4 +5,8 @@ h1{
 }
 li{
     font-size: 30px ;
+    background-color: antiquewhite;
+}
+body{
+  background-color: antiquewhite;
 }
