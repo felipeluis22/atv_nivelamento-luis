@@ -10,11 +10,12 @@ h1{
     color: antiquewhite;
     background-color: darkolivegreen;
 }
-li{
-  font-family: Quicksand ;
-    font-size: 30px ;
-    background-color: antiquewhite;
-}
+
+ 
 body{
+  font-family: Quicksand ;
+  font-size: 30px ;
+  background: antiquewhite;
+
   background:linear-gradient(antiquewhite, darkolivegreen);
 }
