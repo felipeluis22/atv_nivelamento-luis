@@ -16,5 +16,5 @@ li{
     background-color: antiquewhite;
 }
 body{
-  background:linear-gradient(darkolivegreen, antiquewhite);
+  background:linear-gradient(antiquewhite, darkolivegreen);
 }
