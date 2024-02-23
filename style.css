@@ -15,6 +15,5 @@ h1{
 body{
   font-family: Quicksand ;
   font-size: 40px ;
-lighting-color: aliceblue;
-  background:linear-gradient(antiquewhite, darkolivegreen);
+  background:linear-gradient(antiquewhite, rgb(254, 255, 252));
 }
