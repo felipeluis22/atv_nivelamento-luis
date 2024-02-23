@@ -16,4 +16,5 @@ body{
   font-family: Quicksand ;
   font-size: 40px ;
   background:linear-gradient(antiquewhite, darkolivegreen);
+  lighting-color: aquamarine;
 }
