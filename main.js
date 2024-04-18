@@ -19,7 +19,7 @@ const tempoObjetivo1 = new Date("2025-12-05T00:00:00");
 const tempoObjetivo2 = new Date("2024-12-05T00:00:00");
 const tempoObjetivo3 = new Date("2024-12-05T00:00:00");
 
-const tempo = [tempoObjetivo1, tempoObjetivo2, tempoObjetivo3];
+const tempos = [tempoObjetivo1, tempoObjetivo2, tempoObjetivo3];
 
 function calculaTempo(tempoObjetivo) {
     let tempoAtual = new Date();
@@ -38,7 +38,7 @@ function calculaTempo(tempoObjetivo) {
 }
 
 function atualizaCronometro(){
-    
+
     //laço de repetição para interagir com todos os objetivos
     for (let i = 0; i < contadores.length; i++){
         contadores[i].textContent = calculaTempo(tempos[i]); //textContent mostra na tela a meta
